@@ -1,0 +1,1 @@
+Drug Registry Search project defines all endpoints for searching drughs through name, identifier.

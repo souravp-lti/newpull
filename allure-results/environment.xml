@@ -1,0 +1,22 @@
+<environment>
+    <parameter>
+        <key>Host Name</key>
+        <value>ENVY-HP</value>
+    </parameter>
+    <parameter>
+        <key>User Name</key>
+        <value>Sourav</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>QA</value>
+    </parameter>
+    <parameter>
+        <key>OS</key>
+        <value>Windows</value>
+    </parameter>
+    <parameter>
+        <key>Browser</key>
+        <value>Chrome</value>
+    </parameter>
+</environment>
